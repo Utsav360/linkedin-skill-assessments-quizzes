@@ -139,6 +139,8 @@
 - [ ] Use `<ol>` when you want a bulleted list and `<ul>` when you want a numbered list.
 - [ ] Use `<ol>` when you have a list of items in which the order of the items matters. Use `<ul>` when you have a list of items that could go in any order.
 
+![Explanation](https://www.khanacademy.org/computer-programming/html-the-ul-ol-and-li-tags/6339629448167424)
+
 #### Q14. What is the difference between the post and get methods in a form?
 
 - [ ] post is used for sending information to the server. get is used for retrieving form information from the server.
